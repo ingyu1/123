@@ -21,4 +21,4 @@
 * git clone(https://github.com/ingyu1/123.git)
 * git config --list <-- origin 이라는 이름으로 원격 저장소의 주소가 등록된 것을 확인
 
-최초로 저장된 내용
+최초로 저장된 내용 
