@@ -1,6 +1,6 @@
 # github
 ## windows에서 자격증명 확인 / github관련 자격증명 삭제
-## gihhub회원가입
+## gihhub 회원가입
 ## github 사이트에서 Repository 생성
   * Repository 주소 복사
 ## git 다운로드/설치
