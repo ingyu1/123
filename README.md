@@ -7,3 +7,6 @@
   * user.name / user.email 등록
   * git config --list : 등록된 항목 확인
 ## github 토큰 신청/발급
+* github.com 화면 우측 상단 아이콘 클릭 > Settings > 왼쪽 메뉴 하단 Developer settings > Personal access tokens >
+* Tokens(classic) > Generate new token > Generate new token(classic) >
+* Note:간단 설명 입력 > Generate token
